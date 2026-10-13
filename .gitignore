@@ -1,0 +1,17 @@
+node_modules/
+dist/
+coverage/
+
+.env
+.env.*
+!.env.example
+
+backups/
+*.backup
+*.zip
+.DS_Store
+*.log
+
+# Extracted repair packages
+/PanelSync_Source_Fix/
+/PanelSync_Clean_Source_v2/
